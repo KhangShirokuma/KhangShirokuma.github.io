@@ -24,3 +24,11 @@ Một số tiện ích mở rộng hữu ích cho trình duyệt mạng (dùng t
 ### **[Trang Tương tự arXiv](https://khangshirokuma.github.io/TrangTuongTuArXiv/)** (ngày 25 tháng 01 năm 2024 \| 2024/01/25)
 
 Một số trang mạng tương tự trang [arXiv](https://arxiv.org).
+
+### **[Mã Vùng Điện thoại Việt Nam](https://khangshirokuma.github.io/MaVungDienThoaiVietNam/)** (ngày 25 tháng 01 năm 2024 \| 2024/01/25)
+
+Mã vùng điện thoại tại Việt Nam.
+
+### **[Mã Bưu chính Việt Nam](https://khangshirokuma.github.io/MaBuuChinhVietNam/)** (ngày 25 tháng 01 năm 2024 \| 2024/01/25)
+
+Mã bưu chính tại Việt Nam.
