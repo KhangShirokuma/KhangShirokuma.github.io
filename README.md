@@ -20,3 +20,7 @@ Cách mở nhiều tệp Excel trùng tên.
 ### **[Tiện ích Mở rộng cho Trình duyệt mạng](https://khangshirokuma.github.io/TienIchMoRongTrinhDuyet/)** (ngày 15 tháng 01 năm 2024 \| 2024/01/15)
 
 Một số tiện ích mở rộng hữu ích cho trình duyệt mạng (dùng trên máy tính).
+
+### **[Trang Tương tự arXiv](https://khangshirokuma.github.io/TrangTuongTuArXiv/)** (ngày 25 tháng 01 năm 2024 \| 2024/01/25)
+
+Một số trang mạng tương tự trang [arXiv](https://arxiv.org).
